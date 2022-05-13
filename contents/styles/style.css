@@ -5,7 +5,7 @@ html {
 }
 body {  height: 100% !important;
 
-  background-color: black !important;
+  background-color: #fd79a8 !important;
   color: white !important;
   background-image: url("../assets/bg.svg");
   background-repeat: no-repeat;
