@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Halit Sever
-email: halitsever@protonmail.com
-description: "Software Developer"
+title: Gizem Kılıçaslan
+email:  gizem.k.aslan@gmail.com
+description: "Flutter Developer"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  halitsever
-avatar: https://avatars.githubusercontent.com/u/34791459
+github_username:  gig-i
 
 # Build settings
 theme: minima
